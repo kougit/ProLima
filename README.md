@@ -1,0 +1,2 @@
+# ProLima
+ProLima supports the tracking of a specific product through the successive stages of its development lifecycle in an industry. It keeps data about the daily activities carried out by manufacturers of a product in an easily accessible database. The system has the ability to update and maintain product data including details of deliveries, expenses incurred during their production as well as the daily production and inventory and that is required to generate management reports to the manufacturer.
